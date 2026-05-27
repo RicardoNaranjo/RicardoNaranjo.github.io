@@ -1,4 +1,7 @@
 title: My website
 description: welcome to my portfolio
-theme: minima
+# theme: minima
+plugins: - jekyll-remote-theme
+remote_theme: pages-themes/minimal
+
 
