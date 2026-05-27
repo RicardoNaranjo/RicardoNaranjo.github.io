@@ -1,7 +1,9 @@
-title: My website
-description: welcome to my portfolio
-# theme: minima
-plugins: - jekyll-remote-theme
+title: Mi Portafolio de Datos
+description: Proyectos de SQL, Python y Tableau
+
+plugins:
+  - jekyll-remote-theme
+
 remote_theme: pages-themes/minimal
 
 
