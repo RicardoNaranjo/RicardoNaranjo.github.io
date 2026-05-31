@@ -6,5 +6,5 @@ plugins:
 
 remote_theme: pages-themes/minimal
 
-show_downloads: false
-google_analytics:
+show_downloads: true
+google_analytics: true
