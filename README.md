@@ -10,7 +10,7 @@ I am documenting my daily progress to build a strong foundation in Python, speci
 ### 📂 Featured Daily Projects
 | Day | Project Name | Skills | View Code |
 | :--- | :--- | :--- | :--- |
-| 01 | Band Name Generator | Strings & Input | [Script](https://github.com/RicardoNaranjo/100-days-of-python/blob/main/Day_01/Day1.ipynb) |
+| 01 | Band Name Generator | Strings & Input | [Script][(https://github.com/RicardoNaranjo/100-days-of-python/blob/main/Day_01/Day1.ipynb) ](https://colab.research.google.com/drive/1yyXA8BKyBscyrEf6TLFoJ-NBOGjwl1tm?hl=en)|
 | 02 | Tip Calculator | Data Types & Math | [Script](https://github.com/RicardoNaranjo/100-days-of-python/blob/main/Day_02/main.py) |
 | 03 | **Data Cleaner** | **File I/O, Error Handling** | [**Jupyter Notebook** 📓](https://github.com/RicardoNaranjo/100-days-of-python/blob/main/Day_03/data_cleaning.ipynb) |
 
